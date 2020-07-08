@@ -2,6 +2,10 @@
 
 You can use [SwipeEnded](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~SwipeEnded_EV.html) event in [Prism](https://prismlibrary.com/docs/index.html) Framework by using [Behavior](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/behaviors/reusable/event-to-command-behavior) in Xamarin.Forms [SfListView](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/behaviors/reusable/event-to-command-behavior).
 
+You can also refer the following article.
+
+https://www.syncfusion.com/kb/11681/how-to-use-listview-events-using-prism-framework-in-xamarin-forms-sflistview
+
 **XAML**
 
 Left and right swipe template defined.
